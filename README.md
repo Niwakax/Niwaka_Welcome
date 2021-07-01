@@ -3,7 +3,7 @@ Un Addon pour vos serveurs garry's Mod quand vous arrivez à la fin du chargemen
 
 #Installation 
 
-Aller dans les FTP de votre serveur et placer le dossier Niwaka_Welcome dans votre dossier addons renommer le dossier "niwaka_welcome" pour que l'adon se charge sur votre serveur.
+Aller dans les FTP de votre serveur et placer le dossier Niwaka_Welcome dans votre dossier addons renommer le dossier "niwaka_welcome" pour que l'addon se charge sur votre serveur.
 
 #Contact
 
